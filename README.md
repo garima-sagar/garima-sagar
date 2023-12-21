@@ -2,6 +2,8 @@
 - 👀 I’m interested in NLD ,cryptography, ML and allied domains. 
 - 🌱 I’m currently learning C++ and python .
 - 💞️ I’m looking to collaborate on cool projects.
+-     contact - garimasagar52@gmail.com
+
    
 
 <!---
